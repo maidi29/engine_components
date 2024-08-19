@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.1](https://github.com/ThatOpen/engine_components/compare/v2.2.0...v2.2.1) (2024-08-19)
+
+
+### Bug Fixes
+
+* **core:** IfcPropertiesManager.setData properly assigns the entity in the model properties ([ed779b4](https://github.com/ThatOpen/engine_components/commit/ed779b4f9d5017d48a0a44fd44e034cd7b7b425e))
+
 ## [2.2.0](https://github.com/ThatOpen/engine_components/compare/v2.1.0...v2.2.0) (2024-08-18)
 
 
